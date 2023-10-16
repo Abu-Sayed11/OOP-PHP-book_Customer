@@ -1,2 +1,2 @@
 # OOP in PHP language
-there is two php class as Book and Customer.
+There is two php class as Book and Customer.
